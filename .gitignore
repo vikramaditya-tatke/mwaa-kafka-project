@@ -1,0 +1,10 @@
+logs
+*.cfg
+*.db
+*.pid
+webserver_config.py
+.idea
+.vscode
+__pycache__
+.venv
+uv.lock
